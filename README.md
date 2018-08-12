@@ -5,7 +5,7 @@ This project aims to build a bot that will allow the user to converse in modern 
 
 Dialog Model : This work try to reproduce the results in [A Neural Conversational Model](http://arxiv.org/abs/1506.05869) (aka the Google chatbot). It use a RNN (seq2seq model) for sentence predictions. It is done using python and TensorFlow.
 
-Shakespeare Model : This part work tries to reproduce the results in [Shakespearizing Modern Language Using Copy-Enriched Sequence-to-Sequence Models]https://arxiv.org/abs/1707.01161. An Attention based pointer copy mechanism is used.
+Shakespeare Model : This part work tries to reproduce the results in [Shakespearizing Modern Language Using Copy-Enriched Sequence-to-Sequence Models](https://arxiv.org/abs/1707.01161). An Attention based pointer copy mechanism is used.
 
 
 To pretrain the dialog network:
