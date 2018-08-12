@@ -12,5 +12,6 @@ To pretrain the Shakespeare  network:
 
     python main.py --train shakespeare
 
-To test the complete model
+To test the complete model:
+
     python main.py --test --dialog_pretrained_model <dialog pretrained model> --shakespeare_pretrained_model <shakespeare pretrained model>
